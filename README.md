@@ -1,0 +1,2 @@
+# premium-pasta-extrud-001-pasta-extrude-bronze-die-sha
+Tracking pasta die designs and bronze extrusion specs across multiple projects is chaotic—spreadsheets don't capture the visual complexity, and your craft lab workflow falls apart. The Pasta Extrude &amp; Bronze Die Shape Craft Lab is a purpose-built Notion template that centralizes every die shape iteration, extrusion parameter, and bronze material sp
